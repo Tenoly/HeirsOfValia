@@ -1,3 +1,6 @@
+## Disclaimer
+This project is a hobby, lots of idea but not much time invested.
+
 # HeirsOfValia
 Co-op dungeon exploration
 
